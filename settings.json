@@ -1,0 +1,75 @@
+{
+    "extensions.ignoreRecommendations": true,
+    "workbench.colorTheme": "Monokai",
+    "workbench.colorCustomizations": {
+        "sideBar.background": "#15191B",
+        "sideBar.foreground": "#d3d3d3",
+        "sideBar.border": "#222222",
+        "list.hoverBackground": "#222222",
+        "sideBarSectionHeader.background": "#090B0D",
+        "badge.background": "#090B0D",
+        "tab.inactiveBackground": "#222222",
+        "tab.activeBackground": "#090B0D",
+        "list.activeSelectionBackground": "#090B0D",
+        "list.inactiveSelectionBackground": "#090B0D",
+        "button.background": "#519ABA",
+        "editor.background": "#151515",
+        "editor.selectionBackground": "#414141",
+        "editor.lineHighlightBackground": "#414141",
+        "editor.findMatchBackground": "#414141",
+        "editor.findMatchHighlightBackground": "#31393A",
+        "statusBar.background": "#090B0D",
+        "titleBar.activeBackground": "#090B0D",
+        "activityBar.background": "#090B0D",
+        "statusBar.foreground": "#519ABA",
+        "editorGutter.background": "#090B0D"
+    },
+    "editor.fontFamily": "'Fira Code', 'Droid Sans Mono', 'monospace', monospace, 'Droid Sans Fallback'",
+    "editor.fontSize": 14,
+    "terminal.integrated.fontSize": 14,
+    "editor.detectIndentation": false,
+    "editor.insertSpaces": true,
+    "editor.minimap.enabled": false,
+    "editor.tabSize": 4,
+    "editor.minimap.maxColumn": 150,
+    "window.zoomLevel": 0,
+    "editor.wordWrap": "on",
+    "editor.rulers": [
+        80,
+        120
+    ],
+    "typescript.check.npmIsInstalled": false,
+    "explorer.enableDragAndDrop": true,
+    "files.trimTrailingWhitespace": true,
+    "editor.renderWhitespace": "none",
+    "editor.renderControlCharacters": false,
+    "explorer.confirmDragAndDrop": false,
+    "editor.wordWrapColumn": 79,
+    "workbench.startupEditor": "newUntitledFile",
+    "editor.fontLigatures": true,
+    "editor.renderLineHighlight": "gutter",
+    "workbench.editor.labelFormat": "short",
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "typescript.updateImportsOnFileMove.enabled": "never",
+    "breadcrumbs.enabled": true,
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": true
+    },
+    "files.associations": {
+        ".sequelizerc": "javascript",
+        ".stylelintrc": "json",
+        ".prettierrc": "json"
+    },
+    "emmet.syntaxProfiles": {
+        "javascript": "jsx"
+    },
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
+    },
+    "git.enableSmartCommit": true,
+    "terminal.integrated.shell.osx": "/bin/bash",
+    "typescript.tsserver.log": "verbose",
+    "javascript.suggest.autoImports": true,
+    "typescript.suggest.autoImports": true,
+    "screencastMode.onlyKeyboardShortcuts": true,
+}
