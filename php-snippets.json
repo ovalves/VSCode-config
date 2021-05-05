@@ -41,5 +41,12 @@
             "*/"
         ],
         "description": "Documented Class Declaration"
-    }
+    },
+	"var_dump > get_class_methods": {
+        "prefix": "gcm",
+        "body": [
+            "var_dump (get_class_methods($${1:variable}));"
+        ],
+        "description": "debug block"
+    },
 }
