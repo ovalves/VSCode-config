@@ -1,0 +1,5 @@
+alias ga='git add'
+alias gs='git st'
+alias gr='git restore'
+alias gc='git commit -m "$@"'
+alias gp='git push'
