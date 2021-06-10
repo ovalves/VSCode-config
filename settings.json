@@ -72,4 +72,27 @@
     "javascript.suggest.autoImports": true,
     "typescript.suggest.autoImports": true,
     "screencastMode.onlyKeyboardShortcuts": true,
+    "explorer.confirmDelete": false,
+    "vscodeGoogleTranslate.preferredLanguage": "Portuguese",
+    "php-cs-fixer.executablePathWindows": "C:/Users/vinic/AppData/Roaming/Composer/vendor/bin/php-cs-fixer.bat",
+    "php-cs-fixer.lastDownload": 1623069071398,
+    "php-cs-fixer.onsave": true,
+    "php-cs-fixer.rules": "@Symfony",
+    "php-cs-fixer.allowRisky": false,
+    "php-cs-fixer.pathMode": "override",
+    "php-cs-fixer.exclude": [],
+    "php-cs-fixer.autoFixByBracket": true,
+    "php-cs-fixer.autoFixBySemicolon": true,
+    "php-cs-fixer.formatHtml": false,
+    "php-cs-fixer.documentFormattingProvider": true,
+    "phpmd.command": "C:/Users/vinic/AppData/Roaming/Composer/vendor/bin/phpmd.bat",
+    "workbench.editorAssociations": [
+        {
+            "viewType": "jupyter.notebook.ipynb",
+            "filenamePattern": "*.ipynb"
+        }
+    ],
+    "[php]": {
+        "editor.defaultFormatter": "junstyle.php-cs-fixer"
+    },
 }
