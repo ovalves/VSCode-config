@@ -77,7 +77,7 @@
     "php-cs-fixer.executablePathWindows": "C:/Users/vinic/AppData/Roaming/Composer/vendor/bin/php-cs-fixer.bat",
     "php-cs-fixer.lastDownload": 1623069071398,
     "php-cs-fixer.onsave": true,
-    "php-cs-fixer.rules": "@Symfony",
+    "php-cs-fixer.config": ".php-cs-fixer.php",
     "php-cs-fixer.allowRisky": false,
     "php-cs-fixer.pathMode": "override",
     "php-cs-fixer.exclude": [],
