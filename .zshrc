@@ -205,6 +205,8 @@ alias kubedash="$HOME/Desktop/code/ovalves-github/VSCode-config/.dev-apps/.minik
 alias kubetunnel="minikube tunnel"
 
 # kubectl contexts
+alias kcgc="kubectl config get-contexts"
+alias kcc="kubectl config current-context"
 alias kubelocal="kubectl config use-context minikube"
 alias nbradev="kubectl config use-context nbra-dev"
 alias nbrahml="kubectl config use-context nbra-homolog"
