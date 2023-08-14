@@ -19,9 +19,9 @@
         "prefix": "doc_file",
         "body": [
             "/**",
-            " * @copyright ${1:$CURRENT_YEAR} Instituto Presbiteriano Mackenzie",
-            " * @author    Vinicius Alves <vinicius.alves@mackenzie.br>",
-            " * @package   Mackenzie",
+            " * @copyright ${1:$CURRENT_YEAR} ACME CORP",
+            " * @author    Vinicius Alves <vinicius_o.a@live.com>",
+            " * @package   PKG",
             " * @category  CATEGORY",
             " * @license   Proprietary",
             " * @since     ${1:$CURRENT_YEAR}-${2:$CURRENT_MONTH}-${3:$CURRENT_DATE}",
