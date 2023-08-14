@@ -1,6 +1,6 @@
 <?php
 /**
- * @author    Vinicius Alves <vinicius.alves@mackenzie.br>
+ * @author    Vinicius Alves <vinicius_o.a@live.com>
  * @since     2021-06-10
  * @version   1.0.0
  */
